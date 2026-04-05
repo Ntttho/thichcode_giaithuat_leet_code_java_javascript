@@ -1,6 +1,4 @@
-package java_leetcode.leetcode153;
-
-import java_leetcode.leetcode67.Solution;
+package leetcode153;
 
 public class Main {
     public static int findMin(int[] nums) {

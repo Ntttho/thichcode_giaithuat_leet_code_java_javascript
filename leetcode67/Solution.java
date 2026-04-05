@@ -1,4 +1,4 @@
-package java_leetcode.leetcode67;
+package leetcode67;
 
 import java.util.LinkedList;
 import java.util.Queue;
