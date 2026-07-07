@@ -2,22 +2,20 @@ package leetcode26;
 
 class Solution {
     public int removeDuplicates(int[] nums) {
-        int nextIndex = 0, preIndex = 1;
-        
-        for(; nextIndex < nums.length ; nextIndex++){
-
-            if (nums[preIndex] < nums[nextIndex]) {
-                preIndex++;
-                nums[preIndex] = nums[nextIndex];
-            }else{
-
+        if(nums.length == 0){
+            return 0;
+        }
+        int k = 1;
+        for (int i = 1; i < nums.length; i++) {
+            // 1  1  2
+            //    i
+            // k-1
+            if(nums[i] != nums[k-1]){
+                nums[k] = nums[i];
+                k++;
             }
         }
 
-        for(int i = preIndex+1; i < nums.length; i++){
-            nums[i] = 0;
-        }
-
-        return preIndex + 1;
+        return k;
     }
 }
