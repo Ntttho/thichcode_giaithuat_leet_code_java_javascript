@@ -29,7 +29,7 @@ public class Solution {
             re = sum / 10;
             temp.next = new ListNode(resultSum);
             temp = temp.next;
-            l1 = l1.next;
+            l1 = l1.next; 
             l2 = l2.next;
         }
 
