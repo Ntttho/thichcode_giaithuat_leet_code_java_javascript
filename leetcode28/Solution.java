@@ -7,6 +7,7 @@ class Solution {
             if(haystack.subSequence(i, length).equals(needle)){
                 return i;
             }
+            
         }
 
         return -1;
