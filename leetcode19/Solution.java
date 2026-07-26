@@ -14,7 +14,7 @@ import common.ListNode;
  */
 public class Solution {
     public ListNode removeNthFromEnd(ListNode head, int n) {
-        ListNode temp = head, cut = head;
+        ListNode temp = head;
         int i = 0, length = length(head);
 
         if(n == length){
