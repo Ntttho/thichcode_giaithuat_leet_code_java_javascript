@@ -7,7 +7,24 @@ class Solution {
         return strs[strs.length - 1].length();
     }
 
+    public int lengthOfLastWordBest(String s) {
+        s = s.trim();
+        
+        int length = 0;
+        for (int i = s.length() - 1; i >= 0; i--) {
+            if (s.charAt(i) != ' ') {
+                length++;
+            }
+            else if (length > 0) {
+                break;
+            }
+        }
+        
+        return length;
+    }
+
     public static void main(String[] args) {
-        System.out.println();
+        String str = "hello ae ";
+        System.out.println("     hello ae ".contains(" "));
     }
 }
