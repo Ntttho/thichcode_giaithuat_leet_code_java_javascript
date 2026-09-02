@@ -4,6 +4,9 @@
 
 ## Nhật ký làm bài:<
 ---
+692. Chuổi 2 ngày liên tiếp của tháng 9 leetcode
+- dcm giáo viện dạy như qq toàn đọc code của ai gen ra chẳng giải thích rõ ràng gì cả
+
 691. hello đầu tháng chúc ae một ngày tốt lành
 - 815: Tao sẽ leetcode đủ một tháng này luôn
     Tao sẽ làm những gì mà tụi m chẳng thể hiểu được tao đang làm gì
