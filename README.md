@@ -4,6 +4,7 @@
 
 ## Nhật ký làm bài:<
 ---
+693. chuổi 3 rồi nghe nếu có thể thì xin phép tối nay tôi sẽ đi đá bóng, còn nếu không thì trận derby cuối tuần thì sao:0
 692. Chuổi 2 ngày liên tiếp của tháng 9 leetcode
 - dcm giáo viện dạy như qq toàn đọc code của ai gen ra chẳng giải thích rõ ràng gì cả
 
