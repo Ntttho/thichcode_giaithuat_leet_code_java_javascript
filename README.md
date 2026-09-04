@@ -4,7 +4,12 @@
 
 ## Nhật ký làm bài:<
 ---
+694. chuổi 4 mặt dù là chôm solution của người khác -- bro- it's last friday night, tôi cũng muốn nghĩ ngơi ăn chơi mà
+
 693. chuổi 3 rồi nghe nếu có thể thì xin phép tối nay tôi sẽ đi đá bóng, còn nếu không thì trận derby cuối tuần thì sao:0
+- bài tập hôm nay leetcode48 mđ medium không khó lắm nhưng mà có rằng buộc là không được phép xuất hiện matrix thứ 2
+- nhiệm vụ là tự xoay mảng theo yêu cầu đề bài
+- cách làm thì cũng dể chỉ cần xoay mảng 2 lần theo chiều kiêm đồng hồ, và dựa theo quy tắc quay của i, j, length
 692. Chuổi 2 ngày liên tiếp của tháng 9 leetcode
 - dcm giáo viện dạy như qq toàn đọc code của ai gen ra chẳng giải thích rõ ràng gì cả
 
