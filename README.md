@@ -4,6 +4,9 @@
 
 ## Nhật ký làm bài:<
 ---
+695. Cái mà mình ngu nhất là chuổi, bro à khó vaix ra luôn í
+    - done leetcode05 nhé
+    - chuổi đối xứng dài nhất On2 thôi: dùng kỹ thuật 2 con trỏ, mở rộng đối xứng từ ký tự trung tâm muốn kiểm tra đối xứng. Sau đó tìm vị trí bắt đầu và kết thúc của chuổi đỗi xứng dài nhất lưu kết quả result trả về chuổi thôi (dùng phương thúc subString(beginIndex, endIndex) để mà tách chuổi nghen)
 694. chuổi 4 mặt dù là chôm solution của người khác -- bro- it's last friday night, tôi cũng muốn nghĩ ngơi ăn chơi mà
 
 693. chuổi 3 rồi nghe nếu có thể thì xin phép tối nay tôi sẽ đi đá bóng, còn nếu không thì trận derby cuối tuần thì sao:0
