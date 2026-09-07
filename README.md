@@ -4,7 +4,7 @@
 
 ## Nhật ký làm bài:<
 ---
-687. khi mà gặp một ai đó mày cảm thấy hợp, thì ông trời lại vô tình đánh đố nhau bằng khoảng cách. 131km là khoản cách tới 1 người, chắc chỉ làm bạn thôi chứ không thể tiến xa hơn.
+687. khi mà gặp một ai đó mày cảm thấy hợp, thì ông trời lại vô tình đánh đố nhau bằng khoảng cách. 2310km và 131km là khoảng cách tới 1 hoặc 1 người, chắc chỉ làm bạn thôi chứ không thể tiến xa hơn.
 695. Cái mà mình ngu nhất là chuổi, bro à khó vaix ra luôn í
     - done leetcode05 nhé
     - chuổi đối xứng dài nhất On2 thôi: dùng kỹ thuật 2 con trỏ, mở rộng đối xứng từ ký tự trung tâm muốn kiểm tra đối xứng. Sau đó tìm vị trí bắt đầu và kết thúc của chuổi đỗi xứng dài nhất lưu kết quả result trả về chuổi thôi (dùng phương thúc subString(beginIndex, endIndex) để mà tách chuổi nghen)
