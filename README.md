@@ -4,6 +4,11 @@
 
 ## Nhật ký làm bài:<
 ---
+6913. Tao thực sự nghĩ tao sẽ tìm được một người con gái giống mẹ, sinh tháng 10, tính cách trầm, nghĩ nhiều, quan tâm, ít bộc lộ cảm xúc nhưng biểu hiện rõ. Thự sự là cực kỳ khó.
+    - Tao sẽ cố không kết bạn online nữa everything no important than my mom, my life, my mind , feeling, my happy.
+    - xin một lần nữa tìm đến phật pháp để xoa dịu cảm xúc của con.
+    - Mẹ ơi con thực sự còn không hiểu con, con tìm kiếm một mối quan hệ trong tình trạng này như thế nào? Con chẳng biết nữa. Khả năng đọc vị rất giỏi nhưng mà liệu đọc vị con như thế nào? Mẹ chỉ cho con cách sử dụng đôi mắt, nma mẹ quên mất chỉ cho con cách sử dụng bộ nảo để đoán được suy nghĩ nội tâm òi. Con hong trách mẹ đâu, con cảm ơn mẹ, con thương mẹ nhiều lắm, con sẽ học cách đọc vị suy nghĩ bản thân con. Con không cô đơn mà, con còn mẹ, nhiều người ngoài kia hong còn mẹ họ buồn, họ cô đơn hơn con nhiều lắm.
+    - 13 cái con số mà mọi người lo ngại thì con lại thích nó, con thấy nó bị mn xa lánh, con thấy nó bị mọi người ghét bỏ, nhưng nó lại giống con vì con cũng vậy một mình, chỉ một mình, chẳng cần ai cả <3 feeling empty, alone, make me movitation so much! Con cần cảm giác này mẹ ơi
 687. khi mà gặp một ai đó mày cảm thấy hợp, thì ông trời lại vô tình đánh đố nhau bằng khoảng cách. 2310km và 131km là khoảng cách tới 1 hoặc 1 người, chắc chỉ làm bạn thôi chứ không thể tiến xa hơn.
 695. Cái mà mình ngu nhất là chuổi, bro à khó vaix ra luôn í
     - done leetcode05 nhé
