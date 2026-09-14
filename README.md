@@ -4,6 +4,7 @@
 
 ## Nhật ký làm bài:<
 ---
+6914. Tao sẽ thực sự cua cô ấy, một cô gái người miền tay, một cô gái dể thương, tháng 10 dịu, đanh đá, bướng, và có lẽ rất khó ở. Hong hiểu sao vẫn cho tao làm quen xấu lùn bám váy mama, em làm động lực anh nha
 6913. Tao thực sự nghĩ tao sẽ tìm được một người con gái giống mẹ, sinh tháng 10, tính cách trầm, nghĩ nhiều, quan tâm, ít bộc lộ cảm xúc nhưng biểu hiện rõ. Thự sự là cực kỳ khó.
     - Tao sẽ cố không kết bạn online nữa everything no important than my mom, my life, my mind , feeling, my happy.
     - xin một lần nữa tìm đến phật pháp để xoa dịu cảm xúc của con.
