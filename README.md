@@ -4,6 +4,21 @@
 
 ## Nhật ký làm bài:<
 ---
+6924. hn dt
+- hmmm ý định từ ban đầu là sẽ trở ra "hà nội", ngắm mùa thu trong một con người đã "thay đổi" và những con người có ý định thay đổi và đã thực hiện ý định đó thôi
+- hn dt có nghĩa là "Hà Nội - Đổi thay" và chỉ vì một cái ước muốn đó đã đánh thức mình rất nhiều lần trong tiêu cực, lần này chính xác là lần thứ n vì mình không đếm. Nma một anh chàng IT thì hà nội là một trong những nơi quyến rũ lắm á! Bro I can do đít đưa ra đây cái thứ trầm cảm nặng nhất thế giới đi. Tao chống chọi lại được cả!
+
+6917. Tự tay giải jump game II
+Định nghĩa qua một câu nói (chăng bao giờ có ai hiểu)
+    Đi câu trộm điiii (vui)
+    Đi câu trộm đi (buồn)
+    Đi câu trộm đê (cợt nhả)
+    Đi câu trộm nè (chán)
+    Đi câu trộm (giận)
+    Đi câu trộm ik (hạnh phúc)
+
+chỉ thế thôi ma chẳng ai hiểu cả!
+
 6916. Mình hong biết nữa, tình yêu không có đoán, nma mình thật khó hiểu tại sao mình lại yêu nhiều như thế mà mình không được yêu
 6914. Tao sẽ thực sự cua cô ấy, một cô gái người miền tay, một cô gái dể thương, tháng 10 dịu, đanh đá, bướng, và có lẽ rất khó ở. Hong hiểu sao vẫn cho tao làm quen xấu lùn bám váy mama, em làm động lực anh nha
 - tự lực ấy nha, tự làm leetcode 198 ấy, thực ra hồi trước có làm qua một bài tương tự rồi, hình như chính xác là bài này luôn á
