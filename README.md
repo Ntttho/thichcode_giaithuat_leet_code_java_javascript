@@ -4,6 +4,9 @@
 
 ## Nhật ký làm bài:<
 ---
+6926. Một ngày dạy sớm vào 2h sáng để học bài chắn chắn sẽ bị khảo bài nên chuẩn bị trước nhất
+- nma tôi lở ngủ vào lúc 3h30 7h dạy và không học được gì cho tới 10h20 giải 1 bài leetcode counting 1 in byte
+
 6924. hn dt
 - hmmm ý định từ ban đầu là sẽ trở ra "hà nội", ngắm mùa thu trong một con người đã "thay đổi" và những con người có ý định thay đổi và đã thực hiện ý định đó thôi
 - hn dt có nghĩa là "Hà Nội - Đổi thay" và chỉ vì một cái ước muốn đó đã đánh thức mình rất nhiều lần trong tiêu cực, lần này chính xác là lần thứ n vì mình không đếm. Nma một anh chàng IT thì hà nội là một trong những nơi quyến rũ lắm á! Bro I can do đít đưa ra đây cái thứ trầm cảm nặng nhất thế giới đi. Tao chống chọi lại được cả!
