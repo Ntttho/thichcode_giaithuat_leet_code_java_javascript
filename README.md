@@ -4,6 +4,15 @@
 
 ## Nhật ký làm bài:<
 ---
+6101. Má nó mua cái vòng chuổi mà về tới nhà nối lại không được, không siết chặc được cayyyy
+
+6928. Từ một thằng nhóc từ quê lên thành phố, nó đã thay đổi như thế nào
+- nó biết tự lập, tự biết cách chi tiêu những đồng tiền một cách tiết kiệm
+- nó biết tất cả, nó biết từ chối ăn chơi
+- nó tập tành banh bóng, bắt đầu biết tình suy, biết buồn là mua rượu về uống
+- nó tập tành chửi "má" khi đời không cho nó những gì nó mong muốn
+- Nó thật khốn nạn khi không ai yêu nó, nó dằn vặt, nó ích kỹ, nó thật khốn cùng
+
 6926. Một ngày dạy sớm vào 2h sáng để học bài chắn chắn sẽ bị khảo bài nên chuẩn bị trước nhất
 - nma tôi lở ngủ vào lúc 3h30 7h dạy và không học được gì cho tới 10h20 giải 1 bài leetcode counting 1 in byte
 
