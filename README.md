@@ -4,6 +4,8 @@
 
 ## Nhật ký làm bài:<
 ---
+6103. lại nhớ Minh Thi hài vaiz đái
+
 6101. Má nó mua cái vòng chuổi mà về tới nhà nối lại không được, không siết chặc được cayyyy
 
 6928. Từ một thằng nhóc từ quê lên thành phố, nó đã thay đổi như thế nào
