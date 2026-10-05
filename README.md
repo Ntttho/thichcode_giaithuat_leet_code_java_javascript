@@ -4,6 +4,11 @@
 
 ## Nhật ký làm bài:<
 ---
+6105. leetcode 856 Tao bị bí ý tưỡng thêm 2 vào chiều sâu lớn hơn nên nhờ gemini gen cho nhanh thôi nha hết ngày rồi
+
+6104. 1h29p sáng giải xong bài này, giải đề listening toeic 
+Study4: TOEIC LR Collection 1 Test 1: https://study4.com/tests/6852/toeic-lr-collection-1-test-1
+tôi thật sự quá giỏi khi không cầm hay ở gần chiếc điện thoại mà
 6103. lại nhớ Minh Thi hài vaiz đái
 
 6101. Má nó mua cái vòng chuổi mà về tới nhà nối lại không được, không siết chặc được cayyyy
