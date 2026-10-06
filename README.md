@@ -4,6 +4,8 @@
 
 ## Nhật ký làm bài:<
 ---
+6106. Thực ra thì bayh là 2h30 ngày 07/10 sinh nhật mama tôi á, tính ra thì tôi tưởng mình quên lửng mất ai dè là mình mới bất đầu ngày mới thôi hehe
+# Chúc mẹ sinh nhật vui vẽ nhoa<3 
 6105. leetcode 856 Tao bị bí ý tưỡng thêm 2 vào chiều sâu lớn hơn nên nhờ gemini gen cho nhanh thôi nha hết ngày rồi
 
 6104. 1h29p sáng giải xong bài này, giải đề listening toeic 
