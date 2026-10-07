@@ -5,6 +5,8 @@
 ## Nhật ký làm bài:<
 ---
 6106. Thực ra thì bayh là 2h30 ngày 07/10 sinh nhật mama tôi á, tính ra thì tôi tưởng mình quên lửng mất ai dè là mình mới bất đầu ngày mới thôi hehe
+- sống đủ lâu để có một sinh viên công nghệ thông tin được kéo dự án về cho làm, thầy giáo đôi khi thật tuyệt vời
+- bumbo lu leetcode 678 921 xữ lý valid parraless nha broo
 # Chúc mẹ sinh nhật vui vẽ nhoa<3 
 6105. leetcode 856 Tao bị bí ý tưỡng thêm 2 vào chiều sâu lớn hơn nên nhờ gemini gen cho nhanh thôi nha hết ngày rồi
 
