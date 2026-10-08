@@ -4,6 +4,26 @@
 
 ## Nhật ký làm bài:<
 ---
+6108. Tao gét chính mình lắm luôn tao chẳng biết tao muốn gì, tao thích gì và đặt biệt là chẳng biết mình cần phải làm gì cả~ nma "+ một hạt giấy ngày hôm qua"
+6107. Sao mà thử thách con dữ vậy ạ
+- Tôi tham gia một group ojt cuối môn chủ đề kiểm tra tiếng nhật, nhóm trưởng lại từ chức, group này tôi biết ngoài bạn đó ra thì khó, thực lực team hơi kém, còn nhiều thiếu sót lắm. Thôi kệ đi nhở nói với bạn đó mình nhận làm lead rồi thử một lần cho bú mạnh bạo. Thế giới biết con làm được nên mới đem thử thách này tới
+- 1. OJT dự án nhóm áp dụng các công nghệ đã học, brooo?
+- 2. Dự án lập trình mạng??? Tôi cũng chẳng giỏi môn này cho lắm, lập trình swing dở tệ, siêu xấu luôn
+- 3. Cái quan trọng nhất đó chính xác là đi làm join vào dự án thực tế và make money, áp lực sao mà đè chồng lên người tôi vậy kìa
+- 4. Đại số, giải tích 1, triết học mac lenin, tiếng anh, kỹ thuật số, xác suất thống kê
+--> Trời ơi ông trời trên tôi đó à? có cách nào lượt bớt 1/4 không chỉ cần bỏ 1 thôi :< khóc 7 dòng suối, 8 dòng sông rồi
+
+## 07/10 Những gì chưa hoàn thành và cần hoàn thành
+1. Nợ bài học Giải tích, cần học và giải nhiều bài tập giải tích
+2. Nợ bài học Đại số, cần học và giải bt
+3. Tiếng anh Olpc, các exam chưa kiểm tra
+4. Kỹ thuật số
+5. Xác suất thống kê
+6. OJT
+7. Lập trình mạng
+8. Đi làm ***
+
+
 6106. Thực ra thì bayh là 2h30 ngày 07/10 sinh nhật mama tôi á, tính ra thì tôi tưởng mình quên lửng mất ai dè là mình mới bất đầu ngày mới thôi hehe
 - sống đủ lâu để có một sinh viên công nghệ thông tin được kéo dự án về cho làm, thầy giáo đôi khi thật tuyệt vời
 - bumbo lu leetcode 678 921 xữ lý valid parraless nha broo
