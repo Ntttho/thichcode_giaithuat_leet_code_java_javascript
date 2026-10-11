@@ -4,6 +4,11 @@
 
 ## Nhật ký làm bài:<
 ---
+6111. Hmmm tao ghét con người, tao ghét cuốc sống của chính mình, nó quá tầm thường
+- nma tao đang cảm thấy tao sắp burnout sắp quá tải
+- cảm giác nổ tung vậy đó
+- nma tao kiểu lazy quá
+- từ 7h tối tới h 10h30 tao chẳng làm gì cả, má cuộc đời như buồi
 6108. Tao gét chính mình lắm luôn tao chẳng biết tao muốn gì, tao thích gì và đặt biệt là chẳng biết mình cần phải làm gì cả~ nma "+ một hạt giấy ngày hôm qua"
 6107. Sao mà thử thách con dữ vậy ạ
 - Tôi tham gia một group ojt cuối môn chủ đề kiểm tra tiếng nhật, nhóm trưởng lại từ chức, group này tôi biết ngoài bạn đó ra thì khó, thực lực team hơi kém, còn nhiều thiếu sót lắm. Thôi kệ đi nhở nói với bạn đó mình nhận làm lead rồi thử một lần cho bú mạnh bạo. Thế giới biết con làm được nên mới đem thử thách này tới
