@@ -4,6 +4,7 @@
 
 ## Nhật ký làm bài:<
 ---
+6112. Nếu mà cứ lazy như này thì chắc chắn trước sau gì tao cũng sẽ bị burn out cho coi
 6111. Hmmm tao ghét con người, tao ghét cuốc sống của chính mình, nó quá tầm thường
 - nma tao đang cảm thấy tao sắp burnout sắp quá tải
 - cảm giác nổ tung vậy đó
